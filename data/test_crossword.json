@@ -1,0 +1,520 @@
+[
+  {
+    "y": 0,
+    "x": 0,
+    "direction": "across",
+    "answer": "PANNED",
+    "clue": "With out, unfolded [NOT RIGHT WAY TO PHRASE]"
+  },
+  {
+    "y": 0,
+    "x": 8,
+    "direction": "across",
+    "answer": "FIC",
+    "clue": "Tumblr post, maybe: Abbr. [NOT SURE ABOUT THIS ONE]"
+  },
+  {
+    "y": 0,
+    "x": 12,
+    "direction": "across",
+    "answer": "BRS",
+    "clue": "Apt. parts"
+  },
+  {
+    "y": 1,
+    "x": 0,
+    "direction": "across",
+    "answer": "UNOILED",
+    "clue": "Squeaky, maybe"
+  },
+  {
+    "y": 1,
+    "x": 8,
+    "direction": "across",
+    "answer": "ODOROUS",
+    "clue": "Strong smelling"
+  },
+  {
+    "y": 2,
+    "x": 0,
+    "direction": "across",
+    "answer": "NONMALE",
+    "clue": "Woman, e.g."
+  },
+  {
+    "y": 2,
+    "x": 8,
+    "direction": "across",
+    "answer": "RENEGES",
+    "clue": "Goes back on"
+  },
+  {
+    "y": 3,
+    "x": 0,
+    "direction": "across",
+    "answer": "KNOB",
+    "clue": "Door handle"
+  },
+  {
+    "y": 3,
+    "x": 5,
+    "direction": "across",
+    "answer": "ONSTAGE",
+    "clue": "In the limelight, say"
+  },
+  {
+    "y": 4,
+    "x": 3,
+    "direction": "across",
+    "answer": "UAR",
+    "clue": "Former Mideast inits."
+  },
+  {
+    "y": 4,
+    "x": 7,
+    "direction": "across",
+    "answer": "ASSENTS",
+    "clue": "Agrees"
+  },
+  {
+    "y": 5,
+    "x": 1,
+    "direction": "across",
+    "answer": "PESTERS",
+    "clue": "Aggravates"
+  },
+  {
+    "y": 5,
+    "x": 10,
+    "direction": "across",
+    "answer": "ATRIA",
+    "clue": "Heart chambers"
+  },
+  {
+    "y": 6,
+    "x": 0,
+    "direction": "across",
+    "answer": "GAS",
+    "clue": "State of matter"
+  },
+  {
+    "y": 6,
+    "x": 4,
+    "direction": "across",
+    "answer": "PASS",
+    "clue": "One half of a grading option that may LIKE OBSCURE A GRADE, as suggested by four squares in this puzzle [DONT LIKE THIS WORDING]"
+  },
+  {
+    "y": 6,
+    "x": 9,
+    "direction": "across",
+    "answer": "SLEETS",
+    "clue": "Rains ice"
+  },
+  {
+    "y": 7,
+    "x": 0,
+    "direction": "across",
+    "answer": "ARCS",
+    "clue": "Rainbow shapes"
+  },
+  {
+    "y": 7,
+    "x": 5,
+    "direction": "across",
+    "answer": "NAACP",
+    "clue": "Civil rights org."
+  },
+  {
+    "y": 7,
+    "x": 11,
+    "direction": "across",
+    "answer": "RASP",
+    "clue": "Speak hoarsely"
+  },
+  {
+    "y": 8,
+    "x": 0,
+    "direction": "across",
+    "answer": "STATES",
+    "clue": "Posits"
+  },
+  {
+    "y": 8,
+    "x": 7,
+    "direction": "across",
+    "answer": "FAIL",
+    "clue": "The other half of a grading option that may LIKE OBSCURE A GRADE, as suggested by four squares in this puzzle [DONT LIKE THIS WORDING]"
+  },
+  {
+    "y": 8,
+    "x": 12,
+    "direction": "across",
+    "answer": "TAS",
+    "clue": "Office hours holders, often"
+  },
+  {
+    "y": 9,
+    "x": 0,
+    "direction": "across",
+    "answer": "HELEN",
+    "clue": "___ of Troy"
+  },
+  {
+    "y": 9,
+    "x": 7,
+    "direction": "across",
+    "answer": "RANPAST",
+    "clue": "Zipped by"
+  },
+  {
+    "y": 10,
+    "x": 1,
+    "direction": "across",
+    "answer": "DEADSEA",
+    "clue": "Salty body of water"
+  },
+  {
+    "y": 10,
+    "x": 9,
+    "direction": "across",
+    "answer": "SSR",
+    "clue": "Ukr., once"
+  },
+  {
+    "y": 11,
+    "x": 3,
+    "direction": "across",
+    "answer": "MEANSIT",
+    "clue": "Is serious"
+  },
+  {
+    "y": 11,
+    "x": 11,
+    "direction": "across",
+    "answer": "OOPS",
+    "clue": "\"Uh oh\" sounds"
+  },
+  {
+    "y": 12,
+    "x": 0,
+    "direction": "across",
+    "answer": "TWEEDLE",
+    "clue": "Lead-in to Dee and Dum"
+  },
+  {
+    "y": 12,
+    "x": 8,
+    "direction": "across",
+    "answer": "SECULAR",
+    "clue": "Non-religious"
+  },
+  {
+    "y": 13,
+    "x": 0,
+    "direction": "across",
+    "answer": "MERRIAM",
+    "clue": "___-Webster: dictionary publisher"
+  },
+  {
+    "y": 13,
+    "x": 8,
+    "direction": "across",
+    "answer": "TRISECT",
+    "clue": "Cut into thirds"
+  },
+  {
+    "y": 14,
+    "x": 0,
+    "direction": "across",
+    "answer": "ISA",
+    "clue": "\"This ___ robbery!\""
+  },
+  {
+    "y": 14,
+    "x": 4,
+    "direction": "across",
+    "answer": "NDA",
+    "clue": "Hush document, for short"
+  },
+  {
+    "y": 14,
+    "x": 9,
+    "direction": "across",
+    "answer": "SIESTA",
+    "clue": "Midday nap"
+  },
+  {
+    "y": 0,
+    "x": 0,
+    "direction": "down",
+    "answer": "PUNK",
+    "clue": "Music genre popular in the '70s"
+  },
+  {
+    "y": 6,
+    "x": 0,
+    "direction": "down",
+    "answer": "GASH",
+    "clue": "Deep wound"
+  },
+  {
+    "y": 12,
+    "x": 0,
+    "direction": "down",
+    "answer": "TMI",
+    "clue": "\"U didn't need 2 say that!\""
+  },
+  {
+    "y": 0,
+    "x": 1,
+    "direction": "down",
+    "answer": "ANON",
+    "clue": "Auth. unknown"
+  },
+  {
+    "y": 5,
+    "x": 1,
+    "direction": "down",
+    "answer": "PARTED",
+    "clue": "Ripped, maybe"
+  },
+  {
+    "y": 12,
+    "x": 1,
+    "direction": "down",
+    "answer": "WES",
+    "clue": "Director Anderson"
+  },
+  {
+    "y": 0,
+    "x": 2,
+    "direction": "down",
+    "answer": "NONO",
+    "clue": "Taboo"
+  },
+  {
+    "y": 5,
+    "x": 2,
+    "direction": "down",
+    "answer": "ESCALE",
+    "clue": "Its second note is F#"
+  },
+  {
+    "y": 12,
+    "x": 2,
+    "direction": "down",
+    "answer": "ERA",
+    "clue": "Historical period"
+  },
+  {
+    "y": 0,
+    "x": 3,
+    "direction": "down",
+    "answer": "NIMBUS",
+    "clue": "Old cloud word"
+  },
+  {
+    "y": 7,
+    "x": 3,
+    "direction": "down",
+    "answer": "STEAMER",
+    "clue": "Soft-shell clam"
+  },
+  {
+    "y": 0,
+    "x": 4,
+    "direction": "down",
+    "answer": "ELA",
+    "clue": "Elementary subj."
+  },
+  {
+    "y": 4,
+    "x": 4,
+    "direction": "down",
+    "answer": "ATP",
+    "clue": "Cellular energy src."
+  },
+  {
+    "y": 8,
+    "x": 4,
+    "direction": "down",
+    "answer": "ENDEDIN",
+    "clue": "Culminated with"
+  },
+  {
+    "y": 0,
+    "x": 5,
+    "direction": "down",
+    "answer": "DELOREANS",
+    "clue": "\"Back to the Future\" cars"
+  },
+  {
+    "y": 10,
+    "x": 5,
+    "direction": "down",
+    "answer": "SALAD",
+    "clue": "Sweetgreen product"
+  },
+  {
+    "y": 1,
+    "x": 6,
+    "direction": "down",
+    "answer": "DEN",
+    "clue": "Living room alternative"
+  },
+  {
+    "y": 5,
+    "x": 6,
+    "direction": "down",
+    "answer": "RSA",
+    "clue": "Cape Town's home: Abbr."
+  },
+  {
+    "y": 10,
+    "x": 6,
+    "direction": "down",
+    "answer": "ENEMA",
+    "clue": "Colon-cleansing treatment"
+  },
+  {
+    "y": 3,
+    "x": 7,
+    "direction": "down",
+    "answer": "SASSAFRAS",
+    "clue": "Root beer root"
+  },
+  {
+    "y": 0,
+    "x": 8,
+    "direction": "down",
+    "answer": "FORTS",
+    "clue": "Trading posts, often"
+  },
+  {
+    "y": 7,
+    "x": 8,
+    "direction": "down",
+    "answer": "CAA",
+    "clue": "Pres. between JAG and GC"
+  },
+  {
+    "y": 11,
+    "x": 8,
+    "direction": "down",
+    "answer": "IST",
+    "clue": "Suffix for believers"
+  },
+  {
+    "y": 0,
+    "x": 9,
+    "direction": "down",
+    "answer": "IDEAS",
+    "clue": "Notions"
+  },
+  {
+    "y": 6,
+    "x": 9,
+    "direction": "down",
+    "answer": "SPINSTERS",
+    "clue": "Unmarried women, datedly"
+  },
+  {
+    "y": 0,
+    "x": 10,
+    "direction": "down",
+    "answer": "CONGEAL",
+    "clue": "Solidify"
+  },
+  {
+    "y": 8,
+    "x": 10,
+    "direction": "down",
+    "answer": "LPS",
+    "clue": "Short albums"
+  },
+  {
+    "y": 12,
+    "x": 10,
+    "direction": "down",
+    "answer": "CII",
+    "clue": "102, in old Rome"
+  },
+  {
+    "y": 1,
+    "x": 11,
+    "direction": "down",
+    "answer": "REENTER",
+    "clue": "Try again, as for sweepstakes"
+  },
+  {
+    "y": 9,
+    "x": 11,
+    "direction": "down",
+    "answer": "AROUSE",
+    "clue": "Stir up"
+  },
+  {
+    "y": 0,
+    "x": 12,
+    "direction": "down",
+    "answer": "BOG",
+    "clue": "Mossy wetland"
+  },
+  {
+    "y": 4,
+    "x": 12,
+    "direction": "down",
+    "answer": "TREATS",
+    "clue": "Trick alternatives, on Halloween"
+  },
+  {
+    "y": 11,
+    "x": 12,
+    "direction": "down",
+    "answer": "OLES",
+    "clue": "World Cup cheers"
+  },
+  {
+    "y": 0,
+    "x": 13,
+    "direction": "down",
+    "answer": "RUE",
+    "clue": "Regret"
+  },
+  {
+    "y": 4,
+    "x": 13,
+    "direction": "down",
+    "answer": "SITSAT",
+    "clue": "Pulls up a chair to"
+  },
+  {
+    "y": 11,
+    "x": 13,
+    "direction": "down",
+    "answer": "PACT",
+    "clue": "It's agreed upon"
+  },
+  {
+    "y": 0,
+    "x": 14,
+    "direction": "down",
+    "answer": "SSS",
+    "clue": "Sibilant sound"
+  },
+  {
+    "y": 5,
+    "x": 14,
+    "direction": "down",
+    "answer": "ASPS",
+    "clue": "Cleopatra killers"
+  },
+  {
+    "y": 11,
+    "x": 14,
+    "direction": "down",
+    "answer": "SRTA",
+    "clue": "Sp. miss"
+  }
+]
